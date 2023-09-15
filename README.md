@@ -68,7 +68,4 @@ Copy code
 git push origin feature-name
 Create a pull request to merge your changes into the main repository.
 
-License
-This project is licensed under the MIT License.
-
 Feel free to customize this README.md file according to your specific project requirements. Include additional sections or information as needed to provide comprehensive documentation for your React Task Management App.
