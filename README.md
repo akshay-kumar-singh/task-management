@@ -1,4 +1,5 @@
 React Task Management App
+
 A simple and intuitive Task Management App built with React.
 
 Table of Contents
@@ -26,7 +27,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/react-task-management-app.git
+https://github.com/akshay-kumar-singh/task-management.git
 Navigate to the project directory:
 
 bash
